@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(235, 241, 245);
+}
+
+
+
+
+.comentarios{
+    color: darkblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#comentar{
+    color: darkmagenta;
+}
+
+.sansung{
+    color:green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nokia{
+    color: mediumspringgreen;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav{
+    text-align: center;
+    background-color: rgb(240, 238, 236);
+}
+
+
+.loren{
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.italic{
+    font-style:normal;
+    color: magenta;
+    text-align:end;
+    font-size: medium;
+}
+
+.oneseven{
+    font-weight:bolder;
+    font-style:italic;
+}
+
+.lista-compra{
+    padding: 0px;
+    border: 0px;
+    color: navy;
+}
+
+nav{
+    background-color:rgb(238, 238, 238);
+    display: block;
+    
+}
+
+h1{
+    font-weight: normal;
+}
+
